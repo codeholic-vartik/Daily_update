@@ -1,0 +1,140 @@
+1-08-2024
+
+-> started learning Django
+-> Install Django
+-> create app
+-> learned about model 
+-> learned about view 
+-> urls and template routes
+
+02-08-2024
+
+-> learning about DJango auth and middleware
+-> custom form making and passing data 
+-> validating from data with custom methods
+-> practice middleware for auth
+-> session storage and session flush
+-> query sets 
+
+03-08-2024
+-> started blog project
+-> auth
+-> middleware
+-> coded user and post  models
+-> coded ui for signin and signup 
+-> coded dashboard layout
+
+05-08-2024
+-> coded add post backed and ui
+-> all post backend and view post in table
+-> edit post and delete post backend and ui
+-> user profile section
+-> user profile upload
+-> customizing dashboard  
+
+
+06-08-2024
+
+-> Django dashboard customization
+-> add user profile and post model 
+-> implement roles for user
+-> based on the role show the data
+-> coded homepage with all data
+-> added custom login for dashboard 
+
+
+07-08-2024
+
+-> Django added pagination to home page posts
+-> started learning FastAPI
+-> types and operations
+-> async and  await
+-> installed FastAPI
+-> path parameter
+-> query parameter
+-> request body and string validator 
+
+08-08-2024
+-> Learn FastAPI
+-> query parameter with string & num validator
+-> body multi parameter
+-> body fields
+-> nested models
+-> declare request data
+-> cookies
+-> header
+
+
+09-08-2024
+
+-> Learn FastAPI
+-> header parameter
+-> extra model return types
+-> response status
+-> request from fields
+-> error handling
+-> path operation config
+
+
+10-08-2024
+
+-> Learn FastAPI
+-> JSON compatible
+-> Encoder body Update
+-> Dependencies
+-> Security
+-> Oauth2
+
+12-08-2024
+
+-> FastAPI
+-> Oauth2 JWT token
+-> middleware
+-> CORS
+-> database relation
+-> practice AND implement auth creation Insert user
+-> Fetch user 
+
+
+13-08-2024 
+
+-> Learn auth in FastAPI
+-> implement User creation
+-> JWT token 
+-> fetch current user
+-> worked on sipet project with Devanshu 
+
+
+14-08-2024
+
+-> started coding api for blog project
+-> coded auth
+-> implement middleware
+-> started making api for create post
+
+
+16-08-2024
+
+-> coded created post api
+-> view app post
+-> update post
+-> middleware for post api
+-> adding api delete
+-> coded explained by rajesh
+
+
+
+17-08-2024 
+
+-> coded api for update post with check
+-> view login user post
+-> all post api
+-> view single post by slug
+-> update user api
+-> view public single post
+
+
+
+18-08-2024
+
+-> wordpress explained bys ir 
